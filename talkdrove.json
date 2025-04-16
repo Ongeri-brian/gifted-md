@@ -7,9 +7,9 @@
   "owner-verification":"jemmimaonyango@gmail.com",
   "env": {
     "SESSION_ID": {
-      "description": "Must Start with 'Gifted~'",
+      "description": "Gifted~8b3HK5bVruw5mxng08ET",
       "required": true,
-      "value": ""
+      "value": "true"
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
@@ -17,14 +17,14 @@
       "value": "private"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "Ongeri💜💜",
       "required": true,
       "value": "Gifted Tech"
     },
     "OWNER_NUMBER": {
-      "description": "Put only one Owner Number Here",
+      "description": "254713145618",
       "required": true,
-      "value": "254715206562"
+      "value": "254713145618"
     },
     "ANTI_DELETE": {
       "description": "Put true/inboxonly/allchats/false",
@@ -52,14 +52,14 @@
       "value": ""
     },
     "STATUS_REPLY_MSG": {
-      "description": "Set your status reply message to be sent after bot views status",
+      "description": "💜",
       "required": false,
       "value": "Status Viewed ✅️"
     },
     "AUTO_READ_MESSAGES": {
       "description": "Make it true/commands/false",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "PRESENCE": {
       "description": "Put online/typing/recording/unavailable",
@@ -69,17 +69,17 @@
     "WELCOME": {
       "description": "Make it true/false",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "GOODBYE": {
       "description": "Make it true/false",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "ANTILINK": {
       "description": "Make it true/delete/warn/false",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "ANTIBAD": {
       "description": "Make it true/false",
@@ -94,7 +94,7 @@
     "AUTO_AUDIO": {
       "description": "Make it true/false",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "TIME_ZONE": {
       "description": "Put your timezone or leave to default if you do not know",
@@ -109,7 +109,7 @@
     "AUTO_REACT": {
       "description": "Make it true/false",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "ANTICALL": {
       "description": "Make it true/block/false",
