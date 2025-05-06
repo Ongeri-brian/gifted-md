@@ -7,7 +7,7 @@
   "owner-verification":"jemmimaonyango@gmail.com",
   "env": {
     "SESSION_ID": {
-      "description": "Gifted~8b3HK5bVruw5mxng08ET",
+      "description": "Gifted~5hr48ctK8V5jZO5DSUfi",
       "required": true,
       "value": "true"
     },  
@@ -19,7 +19,7 @@
     "OWNER_NAME": {
       "description": "Ongeri💜💜",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "Ongeri 💜"
     },
     "OWNER_NUMBER": {
       "description": "254713145618",
